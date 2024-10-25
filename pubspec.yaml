@@ -1,0 +1,50 @@
+name: crimereportingapp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.1+1  # Updated version with build number
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.4.2
+  shared_preferences: ^2.3.2
+  font_awesome_flutter: ^10.7.0
+  date_time_picker: ^2.1.0
+  url_launcher: ^6.3.1
+  image_picker: ^1.1.2
+  http: ^1.2.2
+  fluttertoast: ^8.2.8
+  logger: ^2.4.0
+  firebase_core: ^3.6.0
+  flutter_secure_storage: ^9.2.2 # or the latest version
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter_native_splash:
+  color: "#ffffff"  # White splash screen background color
+  image: assets/logo/logo.png  # Your logo image for splash screen
+  android: true  # Enable splash for Android
+  ios: true  # Enable splash for iOS
+  web: false  # Disable for web, if not needed
+  android_gravity: center  # Position of the image on Android
+  ios_content_mode: scaleAspectFit  # Image scaling on iOS
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/login.png
+    - assets/register.png
+    - assets/home.jpg
+    - assets/home1.jpg
+    - assets/logo/logo.png
+    - assets/logo.jpg
+    - assets/logo/logo1.jpg

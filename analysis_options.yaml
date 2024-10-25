@@ -1,0 +1,2 @@
+analyzer: ignore
+include: package:flutter_lints/flutter.yaml
