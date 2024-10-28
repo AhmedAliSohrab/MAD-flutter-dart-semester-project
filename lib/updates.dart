@@ -69,7 +69,7 @@ class _MyUpdatesState extends State<MyUpdates> {
                           Align(
                             alignment: Alignment.bottomRight,
                             child: Text(
-                              'March 31, 2023',
+                              'October 21, 2024',
                               style: TextStyle(
                                 fontSize: 14.0,
                                 color: Colors.grey[600],

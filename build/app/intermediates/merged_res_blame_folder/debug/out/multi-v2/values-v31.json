@@ -4,7 +4,7 @@
             "outputFile": "com.example.crimereportingapp-mergeDebugResources-31:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "D:\\vscodeprojects\\crime_detection\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "C:\\Users\\Haroon Traders\\Desktop\\CEP MAD\\crime_detection\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "3,15",
                         "startColumns": "4,4",

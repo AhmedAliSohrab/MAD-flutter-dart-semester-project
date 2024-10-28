@@ -4,7 +4,7 @@
             "outputFile": "com.example.crimereportingapp-mergeDebugResources-31:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\vscodeprojects\\crime_detection\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Haroon Traders\\Desktop\\CEP MAD\\crime_detection\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,18",
                         "startColumns": "4,4",

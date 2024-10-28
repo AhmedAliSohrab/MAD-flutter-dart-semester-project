@@ -2227,7 +2227,7 @@
             "outputFile": "com.example.crimereportingapp-merged_res-33:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\vscodeprojects\\crime_detection\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Haroon Traders\\Desktop\\CEP MAD\\crime_detection\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,18",
                         "startColumns": "4,4",
@@ -4327,7 +4327,7 @@
             "outputFile": "com.example.crimereportingapp-merged_res-33:/values-night-v31_values-night-v31.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\vscodeprojects\\crime_detection\\android\\app\\src\\main\\res\\values-night-v31\\styles.xml",
+                    "source": "C:\\Users\\Haroon Traders\\Desktop\\CEP MAD\\crime_detection\\android\\app\\src\\main\\res\\values-night-v31\\styles.xml",
                     "from": {
                         "startLines": "3,15",
                         "startColumns": "4,4",
@@ -4687,7 +4687,7 @@
             "outputFile": "com.example.crimereportingapp-merged_res-33:/values-v31_values-v31.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\vscodeprojects\\crime_detection\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "C:\\Users\\Haroon Traders\\Desktop\\CEP MAD\\crime_detection\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "3,15",
                         "startColumns": "4,4",
@@ -4871,25 +4871,6 @@
                     }
                 },
                 {
-                    "source": "D:\\vscodeprojects\\crime_detection\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,18",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,1095",
-                        "endLines": "11,20",
-                        "endColumns": "12,12",
-                        "endOffsets": "748,1259"
-                    },
-                    "to": {
-                        "startLines": "167,175",
-                        "startColumns": "4,4",
-                        "startOffsets": "8854,9306",
-                        "endLines": "174,177",
-                        "endColumns": "12,12",
-                        "endOffsets": "9301,9470"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Haroon Traders\\.gradle\\caches\\transforms-3\\54a4cfbaad86b9ab2273ca8263e4a153\\transformed\\core-1.13.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,98,99,103,104,105,106,112,122,155,176,209",
@@ -4923,6 +4904,25 @@
                         "startOffsets": "7330",
                         "endColumns": "42",
                         "endOffsets": "7368"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Haroon Traders\\Desktop\\CEP MAD\\crime_detection\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,1095",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "748,1259"
+                    },
+                    "to": {
+                        "startLines": "167,175",
+                        "startColumns": "4,4",
+                        "startOffsets": "8854,9306",
+                        "endLines": "174,177",
+                        "endColumns": "12,12",
+                        "endOffsets": "9301,9470"
                     }
                 },
                 {
